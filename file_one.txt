@@ -2,4 +2,4 @@ File one master branch
 
 
 
-Create new footer [issue 53]
+Finish the new footer [issue 53]
